@@ -33,7 +33,8 @@ h3 {
   margin: auto;
 }
 #container {
-  background-image: url("media/img/backgrounds/landingPage.jpg");
+  /*background-image: url("media/img/backgrounds/landingPage.jpg");*/
+  background-color: #51d6ff;
   background-size: cover;
   background-position: center;
   height: 100vh;
